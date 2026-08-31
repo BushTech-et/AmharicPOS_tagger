@@ -1,0 +1,3 @@
+/home/runner/work/AmharicPOS_tagger/AmharicPOS_tagger/src/test/java/com/amharic/postagger/AmharicTokenizerTest.java
+/home/runner/work/AmharicPOS_tagger/AmharicPOS_tagger/src/test/java/com/amharic/postagger/HMMTaggerTest.java
+/home/runner/work/AmharicPOS_tagger/AmharicPOS_tagger/src/test/java/com/amharic/postagger/RuleBasedTaggerTest.java

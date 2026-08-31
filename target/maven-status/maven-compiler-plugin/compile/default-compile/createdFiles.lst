@@ -1,0 +1,11 @@
+com/amharic/postagger/POSTag$1.class
+com/amharic/postagger/AmharicTokenizer.class
+com/amharic/postagger/TaggedToken.class
+com/amharic/postagger/HMMTagger.class
+com/amharic/postagger/Main.class
+com/amharic/postagger/POSTag.class
+com/amharic/postagger/TrainingDataLoader.class
+com/amharic/postagger/Main$LineConsumer.class
+com/amharic/postagger/AmharicLexicon.class
+com/amharic/postagger/MorphologicalAnalyzer.class
+com/amharic/postagger/RuleBasedTagger.class

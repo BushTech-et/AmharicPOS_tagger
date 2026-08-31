@@ -1,0 +1,3 @@
+com/amharic/postagger/HMMTaggerTest.class
+com/amharic/postagger/AmharicTokenizerTest.class
+com/amharic/postagger/RuleBasedTaggerTest.class

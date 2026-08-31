@@ -1,0 +1,73 @@
+# Amharic POS-tagged corpus (CoNLL format: TOKEN<TAB>TAG)
+# Each sentence is separated by a blank line.
+# This is a minimal seed corpus — expand with real annotated data for production use.
+
+እኔ	PRP
+ኢትዮጵያ	NNP
+ዜጋ	NN
+ነኝ	AUX
+።	PUNC
+
+አማርኛ	NNP
+የኢትዮጵያ	NNP
+ቋንቋ	NN
+ነው	AUX
+።	PUNC
+
+ልጁ	NN
+ትምህርት	NN
+ቤት	NN
+ሄደ	VBD
+።	PUNC
+
+ሴቷ	NN
+ምግብ	NN
+ሠራች	VBD
+እና	CC
+ለቤተሰቧ	IN
+ሰጠቻት	VBD
+።	PUNC
+
+አዲስ	JJ
+አበባ	NNP
+ትልቅ	JJ
+ከተማ	NN
+ናት	AUX
+።	PUNC
+
+መጽሐፉ	NN
+ጥሩ	JJ
+ነበር	AUX
+።	PUNC
+
+እሱ	PRP
+ፈጥኖ	RB
+ሮጠ	VBD
+።	PUNC
+
+ሁለት	CD
+ልጆች	NN
+ይጫወታሉ	VBP
+።	PUNC
+
+ወዮ	UH
+፣	PUNC
+ፈጠናል	VBP
+።	PUNC
+
+አይሄዱም	NEG
+ወደ	IN
+ትምህርት	NN
+ቤት	NN
+።	PUNC
+
+መሄዱ	VBG
+አስፈላጊ	JJ
+ነው	AUX
+።	PUNC
+
+የኔ	PRP$
+ቤት	NN
+ቅርብ	JJ
+ነው	AUX
+።	PUNC
